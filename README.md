@@ -28,9 +28,12 @@
 > languages profesional badges
 
 <!-- c -->
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=C%20Language&color=5C6BC0&logo=c&logoColor=A8B9CC&labelColor=2F333A" alt="C Low level programming language"></a>
+[![C](https://img.shields.io/static/v1?label=&message=C%20Language&color=5C6BC0&logo=c&logoColor=A8B9CC&labelColor=2F333A)](https://www.cprogramming.com/)
+
 <!-- python-->
 [![Python](https://img.shields.io/static/v1?label=&message=Python&color=FFD43B&logo=python&logoColor=3776AB&labelColor=2F333A)](https://www.python.org)
+<!-- ruby -->
+[![Ruby](https://img.shields.io/static/v1?label=&message=Ruby&color=CC342D&logo=ruby&logoColor=E74C3C&labelColor=2F333A)](https://www.ruby-lang.org)
 <!-- r -->
   <a href="https://www.r-project.org/" target="_blank"><img height="" src="https://img.shields.io/static/v1?label=&message=R+Project&color=1E64B6&logo=r&logoColor=276DC3&labelColor=2F333A" alt="R Project for Statistical Computing"></a>
 <!--HTML5-->
@@ -38,7 +41,7 @@
 <!-- CSS3 -->
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=CSS3&color=0071B5&logo=CSS3&logoColor=1572B6&labelColor=2F333A" alt="CSS3"></a>
 <!-- JS -->
-  <a href="https://www.javascript.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=JavaScript&color=D4B830&logo=JavaScript&logoColor=F7DF1E&labelColor=2F333A"></a>
+[![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=D4B830&logo=JavaScript&logoColor=F7DF1E&labelColor=2F333A)](https://www.javascript.com)
 <!-- jquery -->
   <a href="https://jquery.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=jQuery&color=21609B&logo=jQuery&logoColor=0769AD&labelColor=2F333A" alt="jquery"></a>
 <!-- php -->
@@ -76,3 +79,12 @@
 [![Colab](https://img.shields.io/static/v1?label=&message=Google%20Colab&color=F9AB00&logo=Google%20Colab&logoColor=F9AB00&labelColor=2F333A)](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index)
 <!-- mysql -->
 [![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=MySQL&logoColor=4479A1&labelColor=F5F5F5)](https://www.mysql.com/)
+
+> style and standardss
+
+<!-- semistandard -->
+[![Semi-Standard](https://raw.githubusercontent.com/standard/semistandard/master/badge.svg)](https://github.com/standard/semistandard)
+<!-- w3 validator -->
+<!-- Betty style -->
+<!-- pep8 -->
+<!-- pycodestyle -->
