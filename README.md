@@ -30,7 +30,7 @@
 <!-- c -->
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=C%20Language&color=5C6BC0&logo=c&logoColor=A8B9CC&labelColor=2F333A" alt="C Low level programming language"></a>
 <!-- python-->
-  <a href="https://www.python.org" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Python&color=FFD43B&logo=python&logoColor=3776AB&labelColor=2F333A" alt="python"></a>
+[![Python](https://img.shields.io/static/v1?label=&message=Python&color=FFD43B&logo=python&logoColor=3776AB&labelColor=2F333A)](https://www.python.org)
 <!-- r -->
   <a href="https://www.r-project.org/" target="_blank"><img height="" src="https://img.shields.io/static/v1?label=&message=R+Project&color=1E64B6&logo=r&logoColor=276DC3&labelColor=2F333A" alt="R Project for Statistical Computing"></a>
 <!--HTML5-->
@@ -67,7 +67,7 @@
 <!-- github -->
 [![Github](https://img.shields.io/static/v1?label=&message=GitHub&color=181717&logo=GitHub&logoColor=f2f2f2&labelColor=2F333A)](https://github.com)
 <!-- vagrant -->
-[![Vagrant](https://img.shields.io/static/v1?label=&message=Vagrant%20up&color=1868F2&logo=vagrant&labelColor=2F333A)](https://app.vagrantup.com/)
+[![Vagrant](https://img.shields.io/static/v1?label=&message=Vagrant&color=1868F2&logo=vagrant&labelColor=2F333A)](https://app.vagrantup.com/)
 <!-- docker -->
 [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=Docker&labelColor=2F333A)](https://hub.docker.com)
 <!-- jupyter -->
