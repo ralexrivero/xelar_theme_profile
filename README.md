@@ -35,7 +35,7 @@
 <!-- ruby -->
 [![Ruby](https://img.shields.io/static/v1?label=&message=Ruby&color=CC342D&logo=ruby&logoColor=E74C3C&labelColor=2F333A)](https://www.ruby-lang.org)
 <!-- r -->
-  <a href="https://www.r-project.org/" target="_blank"><img height="" src="https://img.shields.io/static/v1?label=&message=R+Project&color=1E64B6&logo=r&logoColor=276DC3&labelColor=2F333A" alt="R Project for Statistical Computing"></a>
+[![R](https://img.shields.io/static/v1?label=&message=R+Project&color=1E64B6&logo=r&logoColor=276DC3&labelColor=2F333A)](https://www.r-project.org/)
 <!--HTML5-->
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=HTML5&color=E85827&logo=HTML5&logoColor=E34F26&labelColor=2F333A" alt="HTML5"></a>
 <!-- CSS3 -->
@@ -51,7 +51,8 @@
 <!-- VBA -->
   <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Visual%20Basic%20for%20Aplications&color=258FFA&logo=Microsoft&logoColor=258FFA&labelColor=2F333A" alt="VBA Visual Basic for Applications"></a>
 <!-- sql -->
-<a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=SQL&message=SQL&color=4479A1&logo=SQL&logoColor=4479A1&labelColor=E8E8E8" alt="sql structured query language"></a>
+[![SQL](https://img.shields.io/static/v1?label=SQL&message=SQL&color=4479A1&logo=SQL&logoColor=4479A1&labelColor=E8E8E8)](https://www.w3schools.com/sql/)
+<!-- MAKEFILE -->
 
 > environment badges
 
