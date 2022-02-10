@@ -7,15 +7,16 @@
 - [x] svg source: img.shield
 
 > custom profesional badges
-
+>
+> Author
 <!-- twitter -->
 [![Twitter](https://img.shields.io/twitter/follow/ralex_uy?style=social)](https://twitter.com/ralex_uy) <!-- linkedin --> [![Linkedin](https://img.shields.io/badge/LinkedIn-+22K-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/ronald-rivero/) <!-- github --> [![Github](https://img.shields.io/github/followers/ralexrivero?style=social)](https://github.com/ralexrivero/) <!-- vagrant --> [![Vagrant](https://img.shields.io/static/v1?label=&message=Vagrant%20Profile&color=1868F2&logo=vagrant&labelColor=2F333A)](https://app.vagrantup.com/ralexrivero) <!-- docker --> [![Docker](https://img.shields.io/static/v1?label=&message=Docker%20Profile&color=2496ED&logo=Docker&labelColor=2F333A)](https://hub.docker.com/u/ralexrivero)
 
 > soft skills badges
 
 <!-- skill badges -->
-![soft skills](https://img.shields.io/badge/-Adaptability%20-lightgrey)
-![soft skills](https://img.shields.io/badge/-Continious%20learning%20-lightgrey)
+![soft skills](https://img.shields.io/badge/-adaptability%20-lightgrey)
+![soft skills](https://img.shields.io/badge/-continious%20learning%20-lightgrey)
 ![soft skills](https://img.shields.io/badge/-comunication-lightgrey)
 ![soft skills](https://img.shields.io/badge/-self%20care-lightgrey)
 ![soft skills](https://img.shields.io/badge/-participative%20leadership-lightgrey)
@@ -24,6 +25,7 @@
 ![soft skills](https://img.shields.io/badge/-client%20vision-lightgrey)
 ![soft skills](https://img.shields.io/badge/-resilent-lightgrey)
 ![soft skills](https://img.shields.io/badge/-teamwork-lightgrey)
+![soft skills](https://img.shields.io/badge/-emotional%20intelligence-lightgrey)
 
 > languages profesional badges
 
@@ -37,13 +39,13 @@
 <!-- r -->
 [![R](https://img.shields.io/static/v1?label=&message=R+Project&color=1E64B6&logo=r&logoColor=276DC3&labelColor=2F333A)](https://www.r-project.org/)
 <!--HTML5-->
-  <a href="https://html.spec.whatwg.org/multipage/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=HTML5&color=E85827&logo=HTML5&logoColor=E34F26&labelColor=2F333A" alt="HTML5"></a>
+[![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&logo=HTML5&logoColor=E34F26&labelColor=2F333A)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 <!-- CSS3 -->
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=CSS3&color=0071B5&logo=CSS3&logoColor=1572B6&labelColor=2F333A" alt="CSS3"></a>
+[![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=0071B5&logo=CSS3&logoColor=1572B6&labelColor=2F333A)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 <!-- JS -->
 [![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=D4B830&logo=JavaScript&logoColor=F7DF1E&labelColor=2F333A)](https://www.javascript.com)
 <!-- jquery -->
-  <a href="https://jquery.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=jQuery&color=21609B&logo=jQuery&logoColor=0769AD&labelColor=2F333A" alt="jquery"></a>
+[![jQuery](https://img.shields.io/static/v1?label=&message=jQuery&color=21609B&logo=jQuery&logoColor=0769AD&labelColor=2F333A)](https://jquery.com)
 <!-- php -->
   <a href="https://www.php.net/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=PHP&color=777BB4&logo=PHP&logoColor=777BB4&labelColor=2F333A" alt="php"></a>
 <!-- Markdown -->
@@ -65,7 +67,7 @@
 <!-- vim -->
 [![Vim](https://img.shields.io/static/v1?label=&message=Vim&color=019733&logo=Vim&logoColor=019733&labelColor=2F333A)](https://www.vim.org/)
 <!-- vs code -->
-[![VS Code](https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=5C2D91&logo=Visual%20Studio%20Code&logoColor=5C2D91&labelColor=2F333A)](https://code.visualstudio.com/)
+[![VS Code](https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=007ACC&logo=Visual%20Studio%20Code&logoColor=007ACC&labelColor=2F333A)](https://code.visualstudio.com/)
 <!-- atom -->
 [![Atom](https://img.shields.io/static/v1?label=&message=Atom&color=66595C&logo=Atom&logoColor=f1f1f1&labelColor=2F333A)](https://atom.io/)
 <!-- git -->
