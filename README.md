@@ -32,6 +32,7 @@
 [![C](https://img.shields.io/static/v1?label=&message=C%20Language&color=5C6BC0&logo=c&logoColor=A8B9CC&labelColor=2F333A)](https://www.cprogramming.com/)<!-- c -->
 [![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=00599C&labelColor=2F333A)](https://www.cplusplus.com/)<!-- c++ -->
 [![Python](https://img.shields.io/static/v1?label=&message=Python&color=FFD43B&logo=python&logoColor=3776AB&labelColor=2F333A)](https://www.python.org)<!-- python-->
+[![Java](https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=Java&labelColor=2F333A)](https://www.java.com/en/)<!-- java -->
 [![Ruby](https://img.shields.io/static/v1?label=&message=Ruby&color=CC342D&logo=ruby&logoColor=E74C3C&labelColor=2F333A)](https://www.ruby-lang.org)<!-- ruby -->
 [![R](https://img.shields.io/static/v1?label=&message=R+Project&color=1E64B6&logo=r&logoColor=276DC3&labelColor=2F333A)](https://www.r-project.org/)<!-- r -->
 [![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&logo=HTML5&logoColor=E34F26&labelColor=2F333A)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)<!--HTML5-->
@@ -48,7 +49,7 @@
 
 [![Ubuntu](https://img.shields.io/static/v1?label=&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=E95420&labelColor=2F333A)](https://ubuntu.com/)<!-- ubuntu -->
 [![Ubuntu](https://img.shields.io/static/v1?label=&message=Kali%20Linux&color=557C94&logo=Kali%20Linux&logoColor=557C94&labelColor=2F333A)](https://www.kali.org/)<!-- kali linux -->
-[![Bash](https://img.shields.io/static/v1?label=&message=GNU%20Bash&color=4EAA25&logo=GNU%20Bash&logoColor=4EAA25&labelColor=2F333A)](https://www.gnu.org/software/bash/)v
+[![Bash](https://img.shields.io/static/v1?label=&message=GNU%20Bash&color=4EAA25&logo=GNU%20Bash&logoColor=4EAA25&labelColor=2F333A)](https://www.gnu.org/software/bash/)<!-- bash -->
 [![Vim](https://img.shields.io/static/v1?label=&message=Vim&color=019733&logo=Vim&logoColor=019733&labelColor=2F333A)](https://www.vim.org/)<!-- vim -->
 [![VS Code](https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=007ACC&logo=Visual%20Studio%20Code&logoColor=007ACC&labelColor=2F333A)](https://code.visualstudio.com/)<!-- vs code -->
 [![Atom](https://img.shields.io/static/v1?label=&message=Atom&color=66595C&logo=Atom&logoColor=f1f1f1&labelColor=2F333A)](https://atom.io/)<!-- atom -->
@@ -82,5 +83,4 @@
 <!-- Bootstrap -->
 [![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=7952B3&labelColor=2F333A)](https://getbootstrap.com/)
 
-<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.shields.io/static/v1?label=&message=TensorFlow&color=FF9500&logo=tensorflow&labelColor=2F333A" alt="TensorFlow automatic learning"></a>
-<a href="https://www.java.com/en/" target="_blank"> <img src="https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=Java&labelColor=2F333A" alt="Java"></a>
+[![TensorFlow](https://img.shields.io/static/v1?label=&message=TensorFlow&color=FF9500&logo=tensorflow&labelColor=2F333A)](https://www.tensorflow.org/)<!-- tensorflow -->
