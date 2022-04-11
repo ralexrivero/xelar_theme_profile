@@ -84,3 +84,8 @@
 [![React.js](https://img.shields.io/static/v1?label=&message=React.js&color=61DAFB&logo=React&logoColor=61DAFB&labelColor=2F333A)](https://es.reactjs.org/)<!-- React.js -->
 
 [![TensorFlow](https://img.shields.io/static/v1?label=&message=TensorFlow&color=FF9500&logo=tensorflow&labelColor=2F333A)](https://www.tensorflow.org/)<!-- tensorflow -->
+
+> technical skills
+
+- linear algebra
+- numpy
