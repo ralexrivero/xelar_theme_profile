@@ -78,9 +78,9 @@
 
 > Frameworks
 
-<!-- web design -->
+<!-- front end -->
 
-<!-- Bootstrap -->
-[![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=7952B3&labelColor=2F333A)](https://getbootstrap.com/)
+[![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=7952B3&labelColor=2F333A)](https://getbootstrap.com/)<!-- Bootstrap -->
+[![React.js](https://img.shields.io/static/v1?label=&message=React.js&color=61DAFB&logo=React&logoColor=61DAFB&labelColor=2F333A)](https://es.reactjs.org/)<!-- React.js -->
 
 [![TensorFlow](https://img.shields.io/static/v1?label=&message=TensorFlow&color=FF9500&logo=tensorflow&labelColor=2F333A)](https://www.tensorflow.org/)<!-- tensorflow -->
