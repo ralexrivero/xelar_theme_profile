@@ -85,7 +85,12 @@
 
 [![TensorFlow](https://img.shields.io/static/v1?label=&message=TensorFlow&color=FF9500&logo=tensorflow&labelColor=2F333A)](https://www.tensorflow.org/)<!-- tensorflow -->
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ralexrivero/Artificial_intelligence/blob/main/MachineLearning_and_DataScience/DataAnalisisPandas/intro-to-pandas.ipynb)<!-- open on colab -->
+
 > technical skills
 
 - linear algebra
+- conda
 - numpy
+- pandas
+- matplotlib
