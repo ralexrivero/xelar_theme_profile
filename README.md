@@ -90,7 +90,12 @@
 > technical skills
 
 - linear algebra
-- conda
-- numpy
-- pandas
-- matplotlib
+- `conda`
+- `numpy`
+- `pandas`
+- `matplotlib`
+
+
+> Machine learning
+
+[![Conda](https://img.shields.io/static/v1?label=&message=TensorFlow&color=FF9500&logo=tensorflow&labelColor=2F333A)](https://www.tensorflow.org/)<!-- conda -->
