@@ -42,7 +42,7 @@
 [![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=f4f4f4&logo=Markdown&logoColor=f2f2f2&labelColor=2F333A)](https://www.markdownguide.org/)<!-- Markdown -->
 [![SQL](https://img.shields.io/static/v1?label=SQL&message=SQL&color=4479A1&logo=SQL&logoColor=4479A1&labelColor=E8E8E8)](https://www.w3schools.com/sql/)<!-- sql -->
 [![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=777BB4&logo=PHP&logoColor=777BB4&labelColor=2F333A)](https://www.php.net)<!-- php -->
-[![VBA Visual Basic for Applications](https://img.shields.io/static/v1?label=&message=Visual%20Basic%20for%20Aplications&color=258FFA&logo=Microsoft&logoColor=258FFA&labelColor=2F333A)](https://docs.microsoft.com/en-us/office/vba/api/overview/)<!-- VBA -->
+[![VBA Visual Basic for Applications](https://img.shields.io/static/v1?label=&message=Visual%20Basic%20for%20Aplications&color=258FFA&logo=Microsoft&logoColor=258FFA&labelColor=2F333A)](https://docs.microsoft.com/en-us/office/vba/api/overview/)<!-- VBA --><!-- no logo-->
 <!-- MAKEFILE -->
 
 > environment badges
@@ -89,13 +89,15 @@
 
 > technical skills
 
+- flask
+- jinja
 - linear algebra
-- `conda`
-- `numpy`
-- `pandas`
-- `matplotlib`
-
+- probabilities
 
 > Machine learning
 
-[![Conda](https://img.shields.io/static/v1?label=&message=TensorFlow&color=FF9500&logo=tensorflow&labelColor=2F333A)](https://www.tensorflow.org/)<!-- conda -->
+[![Conda](https://img.shields.io/static/v1?label=&message=Conda&color=44A833&logo=anaconda&logoColor=44A833&labelColor=e2e2e2)](https://docs.conda.io/en/latest/)<!-- conda --><!-- no logo-->
+[![Numpy](https://img.shields.io/static/v1?label=&message=Numpy&color=013243&logo=numpy&logoColor=013243&labelColor=e2e2e2)](https://numpy.org/)<!-- numpy -->
+[![Pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=150458&logo=pandas&logoColor=150458&labelColor=e2e2e2)](https://pandas.pydata.org/)<!-- pandas -->
+[![Matplotlib](https://img.shields.io/static/v1?label=&message=Matplotlib&color=11557C&logo=Python&logoColor=11557C&labelColor=e2e2e2)](https://matplotlib.org/)<!-- matplotlib --><!-- no logo-->
+[![Scikit-lern](https://img.shields.io/static/v1?label=&message=scikit-learn&color=F7931E&logo=scikit-learn&logoColor=F7931E&labelColor=e2e2e2)](https://scikit-learn.org/)<!-- scikitlearn -->
