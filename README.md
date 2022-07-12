@@ -102,3 +102,14 @@
 [![Pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=150458&logo=pandas&logoColor=150458&labelColor=e2e2e2)](https://pandas.pydata.org/)<!-- pandas -->
 [![Matplotlib](https://img.shields.io/static/v1?label=&message=Matplotlib&color=11557C&logo=Python&logoColor=11557C&labelColor=e2e2e2)](https://matplotlib.org/)<!-- matplotlib --><!-- no logo-->
 [![Scikit-lern](https://img.shields.io/static/v1?label=&message=scikit-learn&color=F7931E&logo=scikit-learn&logoColor=F7931E&labelColor=e2e2e2)](https://scikit-learn.org/)<!-- scikitlearn -->
+
+> Mermaid
+
+```mermaid
+flowchart TD
+    A[Deploy to production] --> B{it's ok?};
+    B -- yes --> C[Deploy];
+    B -- Not --> D[Not Deploy];
+    C ----> E[Deploy];
+    D ----> E[Not Deploy];
+```
