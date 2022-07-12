@@ -110,6 +110,6 @@ flowchart TD
     A[Deploy to production] --> B{it's ok?};
     B -- yes --> C[Deploy];
     B -- Not --> D[Not Deploy];
-    C ----> E[Deploy];
-    D ----> E[Not Deploy];
+    C ----> E[update version];
+    D ----> F[Review code];
 ```
