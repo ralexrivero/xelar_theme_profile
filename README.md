@@ -15,17 +15,26 @@
 > soft skills badges
 
 <!-- skill badges -->
-![soft skills](https://img.shields.io/badge/-adaptability%20-lightgrey)
-![soft skills](https://img.shields.io/badge/-continious%20learning%20-lightgrey)
-![soft skills](https://img.shields.io/badge/-comunication-lightgrey)
-![soft skills](https://img.shields.io/badge/-self%20care-lightgrey)
-![soft skills](https://img.shields.io/badge/-participative%20leadership-lightgrey)
-![soft skills](https://img.shields.io/badge/-innovation-lightgrey)
-![soft skills](https://img.shields.io/badge/-result%20orientation-lightgrey)
-![soft skills](https://img.shields.io/badge/-client%20vision-lightgrey)
-![soft skills](https://img.shields.io/badge/-resilent-lightgrey)
-![soft skills](https://img.shields.io/badge/-teamwork-lightgrey)
-![soft skills](https://img.shields.io/badge/-emotional%20intelligence-lightgrey)
+![soft skills](https://img.shields.io/badge/-adaptability%20-orange)
+![soft skills](https://img.shields.io/badge/-continuous%20learning%20-orange)
+![soft skills](https://img.shields.io/badge/-comunication-orange)
+![soft skills](https://img.shields.io/badge/-self%20care-orange)
+![soft skills](https://img.shields.io/badge/-participative%20leadership-orange)
+![soft skills](https://img.shields.io/badge/-innovation-orange)
+![soft skills](https://img.shields.io/badge/-result%20orientation-orange)
+![soft skills](https://img.shields.io/badge/-client%20vision-orange)
+![soft skills](https://img.shields.io/badge/-resilent-orange)
+![soft skills](https://img.shields.io/badge/-teamwork-orange)
+![soft skills](https://img.shields.io/badge/-emotional%20intelligence-orange)
+
+<!-- skill badges -->
+![soft skills](https://img.shields.io/badge/-agile%20mindset-orange)
+![soft skills](https://img.shields.io/badge/-continuous%20learning%20-orange)
+![soft skills](https://img.shields.io/badge/-failure%20friendly-orange)
+![soft skills](https://img.shields.io/badge/-global%20vision-orange)
+![soft skills](https://img.shields.io/badge/-analytic-orange)
+![soft skills](https://img.shields.io/badge/-resilent-orange)
+
 
 > languages profesional badges
 
