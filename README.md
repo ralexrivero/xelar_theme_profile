@@ -15,19 +15,6 @@
 > soft skills badges
 
 <!-- skill badges -->
-![soft skills](https://img.shields.io/badge/-adaptability%20-orange)
-![soft skills](https://img.shields.io/badge/-continuous%20learning%20-orange)
-![soft skills](https://img.shields.io/badge/-comunication-orange)
-![soft skills](https://img.shields.io/badge/-self%20care-orange)
-![soft skills](https://img.shields.io/badge/-participative%20leadership-orange)
-![soft skills](https://img.shields.io/badge/-innovation-orange)
-![soft skills](https://img.shields.io/badge/-result%20orientation-orange)
-![soft skills](https://img.shields.io/badge/-client%20vision-orange)
-![soft skills](https://img.shields.io/badge/-resilent-orange)
-![soft skills](https://img.shields.io/badge/-teamwork-orange)
-![soft skills](https://img.shields.io/badge/-emotional%20intelligence-orange)
-
-<!-- skill badges -->
 ![soft skills](https://img.shields.io/badge/-agile%20mindset-orange)
 ![soft skills](https://img.shields.io/badge/-continuous%20learning%20-orange)
 ![soft skills](https://img.shields.io/badge/-failure%20friendly-orange)
@@ -111,7 +98,7 @@
 [![Pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=150458&logo=pandas&logoColor=150458&labelColor=e2e2e2)](https://pandas.pydata.org/)<!-- pandas -->
 [![Matplotlib](https://img.shields.io/static/v1?label=&message=Matplotlib&color=11557C&logo=Python&logoColor=11557C&labelColor=e2e2e2)](https://matplotlib.org/)<!-- matplotlib --><!-- no logo-->
 [![Scikit-lern](https://img.shields.io/static/v1?label=&message=scikit-learn&color=F7931E&logo=scikit-learn&logoColor=F7931E&labelColor=e2e2e2)](https://scikit-learn.org/)<!-- scikitlearn -->
-
+[![OpenCV](https://img.shields.io/static/v1?label=&message=OpenCV&color=5C3EE8&logo=opencv&logoColor=5C3EE8&labelColor=e2e2e2)](https://opencv.org/)<!-- opencv -->
 > Mermaid
 
 ```mermaid
