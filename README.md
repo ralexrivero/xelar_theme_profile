@@ -34,6 +34,7 @@
 [![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&logo=HTML5&logoColor=E34F26&labelColor=2F333A)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)<!--HTML5-->
 [![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=0071B5&logo=CSS3&logoColor=1572B6&labelColor=2F333A)](https://developer.mozilla.org/en-US/docs/Web/CSS)<!-- CSS3 -->
 [![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=F7DF1E&labelColor=2F333A)](https://www.javascript.com)<!-- JS -->
+[![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=3178C6&labelColor=2F333A)](https://www.typescriptlang.org/)<!-- TS -->
 [![jQuery](https://img.shields.io/static/v1?label=&message=jQuery&color=21609B&logo=jQuery&logoColor=0769AD&labelColor=2F333A)](https://jquery.com)<!-- jquery -->
 [![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=f4f4f4&logo=Markdown&logoColor=f2f2f2&labelColor=2F333A)](https://www.markdownguide.org/)<!-- Markdown -->
 [![SQL](https://img.shields.io/static/v1?label=SQL&message=SQL&color=4479A1&logo=SQL&logoColor=4479A1&labelColor=E8E8E8)](https://www.w3schools.com/sql/)<!-- sql -->
