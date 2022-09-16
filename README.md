@@ -88,9 +88,14 @@
 > technical skills
 
 - flask
+- django
 - jinja
 - linear algebra
 - probabilities
+
+> Backend
+
+[![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=Django&logoColor=092E20&labelColor=F5F5F5)](https://www.djangoproject.com/)<!-- Django -->
 
 > Machine learning
 
