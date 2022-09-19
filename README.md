@@ -64,6 +64,7 @@
 > style and standardss
 
 [![Semi-Standard](https://raw.githubusercontent.com/standard/semistandard/master/badge.svg)](https://github.com/standard/semistandard)<!-- semistandard -->
+[![eslint](https://img.shields.io/static/v1?label=&message=ESLint&color=4B32C3&logo=ESLint&logoColor=4B32C3&labelColor=F5F5F5)](https://eslint.org/)<!-- eslint -->
 <!-- w3 validator -->
 <!-- Betty style -->
 <!-- pep8 -->
@@ -81,7 +82,9 @@
 
 [![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=7952B3&labelColor=2F333A)](https://getbootstrap.com/)<!-- Bootstrap -->
 [![React.js](https://img.shields.io/static/v1?label=&message=React.js&color=61DAFB&logo=React&logoColor=61DAFB&labelColor=2F333A)](https://es.reactjs.org/)<!-- React.js -->
+[![Angular](https://img.shields.io/static/v1?label=&message=AngularJS&color=E23237&logo=AngularJS&logoColor=E23237&labelColor=F5F5F5)](https://angularjs.org/)<!-- Angular.js -->
 
+<!-- AI --                    >
 [![TensorFlow](https://img.shields.io/static/v1?label=&message=TensorFlow&color=FF9500&logo=tensorflow&labelColor=2F333A)](https://www.tensorflow.org/)<!-- tensorflow -->
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ralexrivero/Artificial_intelligence/blob/main/MachineLearning_and_DataScience/DataAnalisisPandas/intro-to-pandas.ipynb)<!-- open on colab -->
