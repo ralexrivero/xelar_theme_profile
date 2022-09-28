@@ -104,7 +104,7 @@
 
 > Server
 
-- Nginx
+[![NGINX](https://img.shields.io/static/v1?label=&message=NGINX&color=009639&logo=NGINX&logoColor=009639&labelColor=e2e2e2)](https://www.nginx.com/)<!-- Nginx -->
 
 > Machine learning
 
