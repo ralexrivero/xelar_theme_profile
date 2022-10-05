@@ -75,6 +75,7 @@
 
 [![AWS](https://img.shields.io/static/v1?label=&message=Amazon%20AWS&color=232F3E&logo=Amazon%20AWS&logoColor=232F3E&labelColor=F5F5F5)](https://aws.amazon.com/)<!-- AWS -->
 [![Github Pages](https://img.shields.io/static/v1?label=&message=Github%20Pages&color=232F3E&logo=Github%20Pages&logoColor=222222&labelColor=F5F5F5)](https://pages.github.com/)<!-- Github Pages -->
+[![Kubernetes](https://img.shields.io/static/v1?label=&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=326CE5&labelColor=F5F5F5)](https://kubernetes.io/ )<!-- Kubernetes -->
 
 > Frameworks
 
