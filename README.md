@@ -26,7 +26,6 @@
 ![soft skills](https://img.shields.io/badge/-analytic-orange)
 ![soft skills](https://img.shields.io/badge/-resilent-orange)
 
-
 > languages profesional badges
 
 [![C](https://img.shields.io/static/v1?label=&message=C%20Language&color=5C6BC0&logo=c&logoColor=A8B9CC&labelColor=2F333A)](https://www.cprogramming.com/)<!-- c -->
