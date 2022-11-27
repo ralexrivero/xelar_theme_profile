@@ -63,6 +63,7 @@
 [![Colab](https://img.shields.io/static/v1?label=&message=Google%20Colab&color=F9AB00&logo=Google%20Colab&logoColor=F9AB00&labelColor=2F333A)](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index)<!-- colab -->
 [![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=MySQL&logoColor=4479A1&labelColor=F5F5F5)](https://www.mysql.com/)<!-- mysql -->
 [![node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=Node.js&logoColor=339933&labelColor=F5F5F5)](https://nodejs.org/en/)<!-- Node.js -->
+<!-- Postgres -->
 
 > style and standardss
 
@@ -78,8 +79,9 @@
 
 [![AWS](https://img.shields.io/static/v1?label=&message=Amazon%20AWS&color=232F3E&logo=Amazon%20AWS&logoColor=232F3E&labelColor=F5F5F5)](https://aws.amazon.com/)<!-- AWS -->
 [![Github Pages](https://img.shields.io/static/v1?label=&message=Github%20Pages&color=232F3E&logo=Github%20Pages&logoColor=222222&labelColor=F5F5F5)](https://pages.github.com/)<!-- Github Pages -->
+<!-- Docker Compose -->
 [![Kubernetes](https://img.shields.io/static/v1?label=&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=326CE5&labelColor=F5F5F5)](https://kubernetes.io/ )<!-- Kubernetes -->
-
+<!-- Gunicorn -->
 > Frameworks
 
 <!-- front end -->
