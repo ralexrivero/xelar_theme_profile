@@ -74,6 +74,7 @@
 <!-- pep8 -->
 <!-- pycodestyle -->
 <!-- shellcheck -->
+<!-- npm -->
 
 > Networking/Cloud
 
