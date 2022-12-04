@@ -131,3 +131,7 @@ flowchart TD
     C ----> E[update version];
     D ----> F[Review code];
 ```
+
+> Miscelanious
+
+- [![Codepen](https://img.shields.io/static/v1?label=&message=codepen.io&color=000000&logo=CodePen&logoColor=000000&labelColor=e2e2e2)](https://codepen.io/)<!-- Codepen.io -->
