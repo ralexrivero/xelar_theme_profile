@@ -63,7 +63,7 @@
 [![Colab](https://img.shields.io/static/v1?label=&message=Google%20Colab&color=F9AB00&logo=Google%20Colab&logoColor=F9AB00&labelColor=2F333A)](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index)<!-- colab -->
 [![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=MySQL&logoColor=4479A1&labelColor=F5F5F5)](https://www.mysql.com/)<!-- mysql -->
 [![node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=Node.js&logoColor=339933&labelColor=F5F5F5)](https://nodejs.org/en/)<!-- Node.js -->
-<!-- Postgres -->
+[![Postgres](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=4169E1&labelColor=2F333A)](https://www.postgresql.org/)<!-- Postgres -->
 
 > style and standardss
 
@@ -80,7 +80,7 @@
 
 [![AWS](https://img.shields.io/static/v1?label=&message=Amazon%20AWS&color=232F3E&logo=Amazon%20AWS&logoColor=232F3E&labelColor=F5F5F5)](https://aws.amazon.com/)<!-- AWS -->
 [![Github Pages](https://img.shields.io/static/v1?label=&message=Github%20Pages&color=232F3E&logo=Github%20Pages&logoColor=222222&labelColor=F5F5F5)](https://pages.github.com/)<!-- Github Pages -->
-<!-- Docker Compose -->
+[![Docker Compose](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=Docker&labelColor=2F333A)](https://docs.docker.com/compose/compose-file/)<!-- Docker Compose -->
 [![Kubernetes](https://img.shields.io/static/v1?label=&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=326CE5&labelColor=F5F5F5)](https://kubernetes.io/ )<!-- Kubernetes -->
 <!-- Gunicorn -->
 > Frameworks
@@ -88,6 +88,7 @@
 <!-- front end -->
 
 [![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=7952B3&labelColor=2F333A)](https://getbootstrap.com/)<!-- Bootstrap -->
+[![Tailwindcss](https://img.shields.io/static/v1?label=&message=Tailwind%20CSS&color=06B6D4&logo=Tailwind%20CSS&logoColor=06B6D4&labelColor=2F333A)](https://tailwindcss.com/)<!-- tailwind.css -->
 [![React.js](https://img.shields.io/static/v1?label=&message=React.js&color=61DAFB&logo=React&logoColor=61DAFB&labelColor=2F333A)](https://es.reactjs.org/)<!-- React.js -->
 [![Angular](https://img.shields.io/static/v1?label=&message=AngularJS&color=E23237&logo=AngularJS&logoColor=E23237&labelColor=F5F5F5)](https://angularjs.org/)<!-- Angular.js -->
 
