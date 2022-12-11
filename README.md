@@ -15,6 +15,8 @@
 [![Github](https://img.shields.io/github/followers/ralexrivero?style=social)](https://github.com/ralexrivero/) <!-- github -->
 [![Vagrant](https://img.shields.io/static/v1?label=&message=Vagrant%20Profile&color=1868F2&logo=vagrant&labelColor=2F333A)](https://app.vagrantup.com/ralexrivero) <!-- vagrant -->
 [![Docker](https://img.shields.io/static/v1?label=&message=Docker%20Profile&color=2496ED&logo=Docker&labelColor=2F333A)](https://hub.docker.com/u/ralexrivero) <!-- docker -->
+<!-- Behance -->
+<!-- website -->
 
 > soft skills badges
 
@@ -136,3 +138,10 @@ flowchart TD
 > Miscelanious
 
 - [![Codepen](https://img.shields.io/static/v1?label=&message=codepen.io&color=000000&logo=CodePen&logoColor=000000&labelColor=e2e2e2)](https://codepen.io/)<!-- Codepen.io -->
+
+> UX-UI
+
+[![Figma](https://img.shields.io/static/v1?label=&message=Figma&color=F24E1E&logo=Figma&logoColor=F24E1E&labelColor=e2e2e2)](https://www.figma.com/)<!-- Figma -->
+[![XD](https://img.shields.io/static/v1?label=&message=Adobe%20XD&color=FF61F6&logo=Adobe%20XD&logoColor=FF61F6&labelColor=2F333A)](https://www.adobe.com/creativecloud.html)<!-- XD -->
+[![Illustrator](https://img.shields.io/static/v1?label=&message=Adobe%20Illustrator&color=FF9A00&logo=Adobe%20Illustrator&logoColor=FF9A00&labelColor=2F333A)](https://www.adobe.com/products/illustrator.html)<!-- Illustrator -->
+[![Photoshop](https://img.shields.io/static/v1?label=&message=Adobe%20Photoshop&color=31A8FF&logo=Adobe%20Photoshop&logoColor=31A8FF&labelColor=2F333A)](https://www.adobe.com/products/photoshop.html)<!-- Photoshop -->
