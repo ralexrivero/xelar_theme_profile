@@ -16,6 +16,9 @@
 [![Github](https://img.shields.io/github/followers/ralexrivero?style=social)](https://github.com/ralexrivero/) <!-- github -->
 [![Vagrant](https://img.shields.io/static/v1?label=&message=Vagrant%20Profile&color=1868F2&logo=vagrant&labelColor=2F333A)](https://app.vagrantup.com/ralexrivero) <!-- vagrant -->
 [![Docker](https://img.shields.io/static/v1?label=&message=Docker%20Profile&color=2496ED&logo=Docker&labelColor=2F333A)](https://hub.docker.com/u/ralexrivero) <!-- docker -->
+
+[![CodersRank](https://img.shields.io/static/v1?label=&message=Coders%20Rank&color=67A4AC&logo=CodersRank&logoColor=67A4AC&labelColor=2F333A)](https://profile.codersrank.io/user/ralexrivero) <!-- codersrank -->
+[![HackersRank](https://img.shields.io/static/v1?label=&message=Hacker%20Rank&color=00EA64&logo=HackerRank&logoColor=00EA64&labelColor=2F333A)](https://www.hackerrank.com/ralexrivero) <!-- hackerrank -->
 <!-- Behance -->
 <!-- website -->
 
@@ -139,6 +142,11 @@ flowchart TD
 > Miscelanious
 
 - [![Codepen](https://img.shields.io/static/v1?label=&message=codepen.io&color=000000&logo=CodePen&logoColor=000000&labelColor=e2e2e2)](https://codepen.io/)<!-- Codepen.io -->
+
+> QA
+
+<!-- jest -->
+<!-- pytest -->
 
 > UX-UI
 
