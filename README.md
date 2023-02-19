@@ -69,6 +69,7 @@
 [![Colab](https://img.shields.io/static/v1?label=&message=Google%20Colab&color=F9AB00&logo=Google%20Colab&logoColor=F9AB00&labelColor=2F333A)](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index)<!-- colab -->
 [![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=MySQL&logoColor=4479A1&labelColor=F5F5F5)](https://www.mysql.com/)<!-- mysql -->
 [![node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=Node.js&logoColor=339933&labelColor=F5F5F5)](https://nodejs.org/en/)<!-- Node.js -->
+[![npm](https://img.shields.io/static/v1?label=&message=npm&color=CB3837&logo=npm&logoColor=CB3837&labelColor=F5F5F5)](https://www.npmjs.com/)<!-- npm -->
 [![Postgres](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=4169E1&labelColor=2F333A)](https://www.postgresql.org/)<!-- Postgres -->
 [![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=MongoDB&logoColor=47A248&labelColor=2F333A)](https://www.mongodb.com/)<!-- MongoDB -->
 
@@ -81,7 +82,6 @@
 <!-- pep8 -->
 <!-- pycodestyle -->
 <!-- shellcheck -->
-<!-- npm -->
 
 > Networking/Cloud
 
@@ -98,6 +98,7 @@
 [![Tailwindcss](https://img.shields.io/static/v1?label=&message=Tailwind%20CSS&color=06B6D4&logo=Tailwind%20CSS&logoColor=06B6D4&labelColor=2F333A)](https://tailwindcss.com/)<!-- tailwind.css -->
 [![React.js](https://img.shields.io/static/v1?label=&message=React.js&color=61DAFB&logo=React&logoColor=61DAFB&labelColor=2F333A)](https://es.reactjs.org/)<!-- React.js -->
 [![Angular](https://img.shields.io/static/v1?label=&message=AngularJS&color=E23237&logo=AngularJS&logoColor=E23237&labelColor=F5F5F5)](https://angularjs.org/)<!-- Angular.js -->
+[![Font Awesome](https://img.shields.io/static/v1?label=&message=Font%20Awesome&color=528DD7&logo=Font%20Awesome&logoColor=528DD7&labelColor=F5F5F5)](https://fontawesome.com/)<!-- Font Awesome -->
 
 <!-- AI --                    >
 [![TensorFlow](https://img.shields.io/static/v1?label=&message=TensorFlow&color=FF9500&logo=tensorflow&labelColor=2F333A)](https://www.tensorflow.org/)<!-- tensorflow -->
