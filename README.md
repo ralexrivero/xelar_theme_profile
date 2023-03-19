@@ -117,6 +117,7 @@
 - pip
 
 [![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=Django&logoColor=092E20&labelColor=F5F5F5)](https://www.djangoproject.com/)<!-- Django -->
+[![Next.js](https://img.shields.io/static/v1?label=&message=Next.js&color=000000&logo=Next.js&logoColor=000000&labelColor=F5F5F5)](https://nextjs.org/)<!-- Next.js -->
 
 > Server
 
