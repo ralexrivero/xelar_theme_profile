@@ -97,6 +97,7 @@
 [![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=7952B3&labelColor=2F333A)](https://getbootstrap.com/)<!-- Bootstrap -->
 [![Tailwindcss](https://img.shields.io/static/v1?label=&message=Tailwind%20CSS&color=06B6D4&logo=Tailwind%20CSS&logoColor=06B6D4&labelColor=2F333A)](https://tailwindcss.com/)<!-- tailwind.css -->
 [![React.js](https://img.shields.io/static/v1?label=&message=React.js&color=61DAFB&logo=React&logoColor=61DAFB&labelColor=2F333A)](https://es.reactjs.org/)<!-- React.js -->
+[![Vite](https://img.shields.io/static/v1?label=&message=Vite&color=646CFF&logo=Vite&logoColor=646CFF&labelColor=2F333A)](https://vitejs.dev/)<!-- Vite -->
 [![Angular](https://img.shields.io/static/v1?label=&message=AngularJS&color=E23237&logo=AngularJS&logoColor=E23237&labelColor=F5F5F5)](https://angularjs.org/)<!-- Angular.js -->
 [![Font Awesome](https://img.shields.io/static/v1?label=&message=Font%20Awesome&color=528DD7&logo=Font%20Awesome&logoColor=528DD7&labelColor=F5F5F5)](https://fontawesome.com/)<!-- Font Awesome -->
 
