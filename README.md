@@ -10,7 +10,7 @@
 >
 ## Author
 
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fralex_uy) <!-- X -->
+[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fralex_uy)](https://twitter.com/ralex_uy) <!-- X -->
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ronald-rivero/) <!-- linkedin -->
 [![Medium](https://img.shields.io/static/v1?label=&message=Medium&color=000000&logo=Medium&logoColor=000000&labelColor=888888)](https://medium.com/@ralexrivero)<!-- medium -->
 
